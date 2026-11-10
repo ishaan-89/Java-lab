@@ -1,0 +1,7 @@
+2026-11-10 09:00:01 INFO Application started
+2026-11-10 09:01:14 WARNING Disk space is running low
+2026-11-10 09:02:25 INFO User logged in
+2026-11-10 09:03:10 ERROR Unable to connect to database
+2026-11-10 09:04:42 INFO Request completed
+2026-11-10 09:05:33 ERROR Invalid configuration
+2026-11-10 09:06:09 WARNING Slow response detected
